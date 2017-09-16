@@ -1,0 +1,17 @@
+
+/* helpers/ - специальные sass-файлы */
+@import 'helpers/variables';
+@import 'helpers/mixins';
+/* base/ - базовые файлы для проекта */
+@import 'base/reset';
+@import 'base/grid';
+@import 'base/typography';
+/* layout/ - файлы форматирования элементов страницы */
+@import 'layout/header';
+@import 'layout/footer';
+@import 'layout/sidebar';
+@import 'layout/forms';
+/* components/ - файлы для компонентов интерфейса */
+@import 'components/buttons';
+@import 'components/dropdown';
+@import 'components/navigation';
